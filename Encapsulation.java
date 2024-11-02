@@ -2,6 +2,10 @@ class Human{
     private int age;
     private String name;
 
+    public Human(){
+        System.out.println("Construtor called");
+    }
+
     public int getAge() {
         return age;
     }
