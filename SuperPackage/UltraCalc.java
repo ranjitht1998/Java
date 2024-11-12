@@ -1,5 +1,7 @@
 package SuperPackage;
 
-public class UltraCalc {
-    
+public class UltraCalc extends SuperCal {
+    public void displayUltra(){
+        System.out.println("In ultra super calc");
+    }
 }
