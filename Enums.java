@@ -12,6 +12,5 @@ public class Enums {
     public static void main(String[] args) {
         FavouritePlaces fav = FavouritePlaces.CHENNAI;
         System.out.println(fav);
-        
     }   
 }
